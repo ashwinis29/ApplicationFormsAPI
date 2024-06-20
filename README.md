@@ -1,5 +1,6 @@
 # ApplicationFormsAPI
 **1. Application Overview:**
+
 Purpose: The application allows employers to create application forms with various question types (Paragraph, YesNo, Dropdown, MultipleChoice, Date, Number) using CRUD (Create, Read, Update, Delete) operations.
 Backend: Built with .NET 8, it utilizes ASP.NET Core for web API development.
 Database: Uses Azure Cosmos DB, a NoSQL database, for storing application form questions (QuestionsContainer) and candidate submissions (CandidateContainer).
