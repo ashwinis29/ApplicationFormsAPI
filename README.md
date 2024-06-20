@@ -18,6 +18,7 @@ Endpoints:
 
 **4. Questions API (/api/questions):**
 Allows creating, reading, updating, and deleting questions. Supports different question types and retrieves questions based on type or all questions.
+
 **5. Candidates API (/api/candidates):** 
 Provides endpoints for candidates to submit responses (/submit) and for rendering questions (/questions) to the frontend based on their types.
 
