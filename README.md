@@ -20,6 +20,7 @@ Endpoints:
 Allows creating, reading, updating, and deleting questions. Supports different question types and retrieves questions based on type or all questions. Azure Cosmos DB has database created as QuestionsDB with container QuestionsContainer with partial key as /Type.
 API URLs: <img width="296" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/8643ff22-e81e-473e-994b-f9570e74fbde">
 Example of Post API: 
+
 Request: 
 {
   "id": "",
@@ -31,9 +32,11 @@ Request:
   "enableOtherOption": true
 }
 
-Response: <img width="328" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/6bf03aeb-e649-4268-80fb-d1e056356889">
+Response: 
+<img width="328" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/6bf03aeb-e649-4268-80fb-d1e056356889">
 
-Stored in Azure Cosmos DB: <img width="467" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/c58c9ed6-f558-44d5-ab70-2bdcfdd904bd">
+Stored in Azure Cosmos DB: 
+<img width="467" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/c58c9ed6-f558-44d5-ab70-2bdcfdd904bd">
 
 
 
@@ -42,6 +45,7 @@ Provides endpoints for candidates to submit responses (/submit) and for renderin
 API URLs: <img width="286" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/adeec708-f513-4416-8990-efab9562f27a">
 
 Example of Post API: 
+
 Request: 
 {
   "id": "",
@@ -56,9 +60,11 @@ Request:
   ]
 }
 
-Response: <img width="377" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/55bcb5e7-c7b3-4b68-abee-394fb13e9f78">
+Response: 
+<img width="377" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/55bcb5e7-c7b3-4b68-abee-394fb13e9f78">
 
-Stored in Azure Cosmos DB: <img width="416" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/992111c1-65f8-4dcf-968e-60b2147e478f">
+Stored in Azure Cosmos DB: 
+<img width="416" alt="image" src="https://github.com/ashwinis29/ApplicationFormsAPI/assets/140146016/992111c1-65f8-4dcf-968e-60b2147e478f">
 
 
 
